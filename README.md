@@ -1,4 +1,0 @@
-# need-ideas
-Project Ideas:
-
-;)
