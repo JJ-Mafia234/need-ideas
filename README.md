@@ -1,2 +1,4 @@
 # need-ideas
-New project
+Project Ideas:
+
+;)
